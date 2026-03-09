@@ -1,1 +1,1 @@
-Write-Output "fortnite"
+(Get-ChildItem -Path "C:\Users\Bruker").Name
